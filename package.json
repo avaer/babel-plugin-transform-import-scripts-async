@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-transform-import-scripts-async",
+  "version": "0.0.1",
+  "description": "importScripts async prefix transform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/babel-plugin-transform-import-scripts-async.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/babel-plugin-transform-import-scripts-async/issues"
+  },
+  "homepage": "https://github.com/modulesio/babel-plugin-transform-import-scripts-async#readme"
+}
